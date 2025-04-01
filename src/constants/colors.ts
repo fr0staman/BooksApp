@@ -1,0 +1,15 @@
+export const COLORS = {
+  white: "#FFFFFF",
+  mainText: "#0B080F",
+  mainText2: "#393637",
+  disabledText: "#D9D5D6",
+  button: "#DD48A1",
+  notLoaded: "#C4C4C4",
+  accent: "#D0006E",
+  dark300: "#C1C2CA",
+  textSlightTransparent: "#FFFFFFB2",
+  textSlightTransparent2: "#FFFFFFCC",
+  background: "#101010",
+  purpleBackground: "#532454",
+  progressBarDisabled: "#FFFFFF33",
+};
